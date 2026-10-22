@@ -2,7 +2,7 @@
 
 A Telegram bot with a Mini App for surfers. The source code is private; this page shows what it does and how it is built.
 
-**Try it:** [@SurfIndoBot](https://t.me/SurfIndoBot)
+**[Open @SurfIndoBot in Telegram](https://t.me/SurfIndoBot)** · [Mini App web preview](https://surf-indonesia.web.app) (personal profile and AI assistant work inside Telegram)
 
 ## What it does
 
