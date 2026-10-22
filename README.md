@@ -12,6 +12,7 @@ A Telegram bot with a Mini App for surfers. The source code is private; this pag
 - A personal surfer profile (level, board, wave size, break type) that tunes the recommendations
 - Favourite spots and a spot map
 - An AI assistant that answers surf questions using the live conditions
+- English and Russian interface: the language follows the Telegram language and can be switched in the app
 
 ## How it is built
 
@@ -26,7 +27,7 @@ A Telegram bot with a Mini App for surfers. The source code is private; this pag
 
 ## Screenshots
 
-The interface is in Russian.
+The interface is available in English and Russian.
 
 | Islands | Map | Spot | Forecast |
 |---|---|---|---|
